@@ -1,0 +1,2 @@
+# Retail Orders Analysis
+ Este projeto realiza uma análise detalhada de dados de pedidos de varejo utilizando Python e SQL. A análise abrange desde a obtenção e limpeza dos dados até a sua exploração e visualização, extraindo insights valiosos sobre o comportamento dos pedidos. Foram utilizados diversos métodos de manipulação de dados e visualização para identificar padrões sazonais, produtos mais vendidos e outras métricas relevantes.
